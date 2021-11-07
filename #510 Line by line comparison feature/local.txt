@@ -1,0 +1,6 @@
+name,description,min,max,value
+test,signal test,0,100,43
+test,signal test,0,100,43
+test,signal test,0,100,43
+test,signal test,0,100,43
+test2,signal test2,0,100,85
