@@ -1,0 +1,13 @@
+    Grass:
+            - Name: GrassBrown04a
+              Density: 1
+              Preset: GrassDense
+            - Name: GrassBrown02d
+              Density: 0.25
+              Preset: GrassDense
+            - Name: PlantBlue01
+              Density: 0.008
+              Preset: GrassDense
+            - Name: Plant01a
+              Density: 0.05
+              Preset: GrassDense

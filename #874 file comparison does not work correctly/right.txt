@@ -1,0 +1,24 @@
+USE [core]
+GO
+
+/****** Object: Table [dbo].[dim_policy] Script Date: 2021-07-13 09:09:50 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[dim_policy](
+[dim_id] [int] IDENTITY(1,1) NOT NULL,
+[partner_dim_id] [int] NOT NULL,
+[contract_dim_id] [int] NOT NULL,
+[portfolio_dim_id] [int] NOT NULL,
+[underwriting_year_dim_id] [int] NULL,
+[policy_id] [int] NULL,
+[policy_number] nvarchar NULL,
+[master_policy_id] [int] NULL,
+[quotation_id] [int] NULL,
+[enquiry_date] [datetime] NULL,
+[quote_date] [datetime] NULL,
+[inception_date] [datetime] NULL,
+[policy_expiry_date] [datetime] NULL,

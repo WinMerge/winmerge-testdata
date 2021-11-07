@@ -1,0 +1,4 @@
+MYGET_KEY="$(echo '%MYGET_API_KEY%' | sed 's/credentialsJSON:\(.*\)/\1/')"
+
+curl -L "https://www.myget.org/F/blah/auth/$MYGET_KEY/api/v3/flatcontainer/nupkg" --output "deployer.zip"
+unzip -q -o deployer.zip -d deployer

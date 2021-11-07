@@ -1,0 +1,4 @@
+BistPerSample    : 8
+ColorComponents  : 3
+Compression      : Uncompressed
+DateTimeOriginal : 2012:03:27

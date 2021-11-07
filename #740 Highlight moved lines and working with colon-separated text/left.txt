@@ -1,0 +1,7 @@
+BistPerSample    : 8
+BlueBlance       :
+ColorComponents  : 3
+ColorEffect      : Off
+Compression      : TPEG
+Contrast         : Normal
+DateTimeOriginal : 2014:03:21

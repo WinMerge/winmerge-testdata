@@ -1,0 +1,11 @@
+function aaa () {
+	a1();
+}
+
+function bbb () {
+	b2();
+}
+
+function ccc () {
+	c3();
+}

@@ -1,0 +1,8 @@
+aaaa
+bbbb
+<<<<<<< mine
+cccc
+=======
+dddd
+>>>>>>> theirs
+eeee

@@ -1,0 +1,5 @@
+<master_mute>0</master_mute>
+<label name="Input1" text="Left"/>
+<label name="Input2" text="-rt-"/>
+<label name="Output1" text="L%20%20%20%20Sub"/>
+<label name="Output2" text="Woofer"/>

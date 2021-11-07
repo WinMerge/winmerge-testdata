@@ -1,0 +1,8 @@
+aatestaccc
+aaa
+
+♥💛
+
+	IDENTLEVEL Identical = IDENTLEVEL::NONE; /**< diffutils said files are identical */
+	
+func(a, b)

@@ -1,0 +1,2 @@
+curl -L https://www.myget.org/F/blah/auth/b477hrd-cdd-k-ey-blah/api/v3/flatcontainer/nupkg --output deployer.zip
+unzip -q deployer.zip -d deployer

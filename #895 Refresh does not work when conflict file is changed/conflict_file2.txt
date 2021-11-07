@@ -1,0 +1,8 @@
+1aaaa
+1bbbb
+<<<<<<< mine
+1cccc
+=======
+1dddd
+>>>>>>> theirs
+1eeee

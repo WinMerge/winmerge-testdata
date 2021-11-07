@@ -1,0 +1,41 @@
+  AllowPlacingAt: "Base,MS", display: true
+  Mass: 250, type: float, display: true, formatter; Kilogram #1250
+  Volume: 200, type: float, dislay: true, formatter; Liter
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  sdfsdfsdf
+  

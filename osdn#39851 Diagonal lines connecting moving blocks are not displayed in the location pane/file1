@@ -1,0 +1,8 @@
+function aaa () {
+	a1();
+}
+
+function ccc () {
+	c3();
+}
+

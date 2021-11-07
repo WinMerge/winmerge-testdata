@@ -1,0 +1,17 @@
+    Grass:
+            - Name: GrassBrown04a
+              Density: 1
+              YScale: 0.5
+              Preset: GrassDense
+            - Name: GrassBrown02d
+              Density: 0.25
+              YScale: 0.5
+              Preset: GrassDense
+            - Name: PlantBlue01
+              Density: 0.008
+              YScale: 0.5
+              Preset: GrassDense
+            - Name: Plant01a
+              Density: 0.05
+              YScale: 0.5
+              Preset: GrassDense

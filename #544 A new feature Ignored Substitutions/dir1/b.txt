@@ -1,0 +1,8 @@
+aatestbccc
+aaa
+
+💔💛
+
+	IDENTLEVEL Identical = IDENTLEVEL_NONE; /**< diffutils said files are identical */
+	
+func2(b, a)
