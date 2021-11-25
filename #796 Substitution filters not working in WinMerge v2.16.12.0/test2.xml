@@ -1,0 +1,4 @@
+<Configuration>
+  <SomethingElse>19</SomethingElse>
+  <Param1 description="1st parameter" type="Integer">1</Param1>
+</Configuration>

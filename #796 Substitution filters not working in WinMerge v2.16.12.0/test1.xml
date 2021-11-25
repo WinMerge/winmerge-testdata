@@ -1,0 +1,3 @@
+<Configuration>
+  <Param1 description="First parameter" type="Integer">1</Param1>
+</Configuration>
