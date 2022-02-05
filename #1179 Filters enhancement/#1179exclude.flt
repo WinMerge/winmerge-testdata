@@ -4,4 +4,4 @@ def: exclude
 f: \.ex.*$
 f!: \.exe$
 d: \\subdir$
-d!: \\e\\subdir$
+d!: \\subdir\\subdir$
