@@ -1,0 +1,7 @@
+name: 1179_exclude
+desc: #1179 Filters enhancement (def: exclude)
+def: exclude
+f: \.ex.*$
+f!: \.exe$
+d: \\subdir$
+d!: \\e\\subdir$

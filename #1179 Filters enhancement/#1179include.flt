@@ -1,0 +1,7 @@
+name: 1179_include
+desc: #1179 Filters enhancement (def: include)
+def: include
+f: \.ex.*$
+f!: \.exe$
+d: \\subdir$
+d!: \\e\\subdir$
