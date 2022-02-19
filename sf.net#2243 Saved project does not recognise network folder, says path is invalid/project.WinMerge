@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<paths>
+		<left>C:\dev\winmerge-testdata\sf.net#2243 Saved project does not recognise network folder, says path is invalid\folder &amp; 1</left>
+		<right>C:\dev\winmerge-testdata\sf.net#2243 Saved project does not recognise network folder, says path is invalid\folder &amp; 2</right>
+		<filter>ADAMulti</filter>
+		<subfolders>1</subfolders>
+		<left-readonly>0</left-readonly>
+		<right-readonly>0</right-readonly>
+	</paths>
+</project>
