@@ -1,0 +1,5 @@
+        echo "The following commands will be executed for RHEL7"; \
+        if [[ $(ARCH) == 'noarch' ]]; then \
+            echo cp .. /RPMS/rhe1-7-i386/$(NAME)*-$(VERS)-`egrep ^Rel
+            echo "Press enter to continue..."; \
+
