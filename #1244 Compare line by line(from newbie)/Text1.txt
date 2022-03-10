@@ -1,0 +1,3 @@
+C:\Windows\Microsoft
+C:\Windows\Google \Common line
+D:\apps\Chrome
