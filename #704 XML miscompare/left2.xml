@@ -1,0 +1,18 @@
+<test>
+  <item name="COMP_6_0status" addr="25">
+    <dec>3</dec>
+    <hex>00000003</hex>
+  </item>
+  <item name="DGain_1_0" addr="26">
+    <dec>0</dec>
+    <hex>00000000</hex>
+  </item>
+  <item name="DGain_2_0" addr="27">
+    <dec>-72</dec>
+    <hex>c2900000</hex>
+  </item>
+  <item name="DGain_3_0" addr="28">
+    <dec>0</dec>
+    <hex>00000000</hex>
+  </item>
+</test>
