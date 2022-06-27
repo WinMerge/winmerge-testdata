@@ -1,0 +1,1 @@
+Search Cyrillic text. For example «пролог» does not find «Пролог».
