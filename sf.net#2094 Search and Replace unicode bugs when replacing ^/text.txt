@@ -1,0 +1,15 @@
+#‚‚‚Œ‚‚ˆ
+##‚‚‚Œ‚‚ˆ
+#‚‚‚Œ‚‚ˆ
+‚‚‚Œ‚‚ˆ
+#‚‚‚Œ‚‚ˆ
+##‚‚‚Œ‚‚ˆ
+#‚‚‚Œ‚‚ˆ
+‚‚‚Œ‚‚ˆ
+
+Select the text.
+Do a search-replace
+Indicate that we want to do this for selected text only.
+Turn on Regular Expressions
+Replace ^ with #
+
