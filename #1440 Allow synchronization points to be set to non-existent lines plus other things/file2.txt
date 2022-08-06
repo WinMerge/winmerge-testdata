@@ -1,0 +1,12 @@
+        Me.srchCopyDetailToCurrentOrder.Anchor = CType(((System.Windows
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right),System.Windows
+        Me.srchCopyDetailToCurrentOrder.AutoLoad = false
+        Me.srchCopyDetailToCurrentOrder.AutoResizeColumns = false
+        Me.srchCopyDetailToCurrentOrder.AutoResizeRows = false
+        Me.srchCopyDetailToCurrentOrder.EmployeeGroupID = 0
+        Me.srchCopyDetailToCurrentOrder.EmployeeID = 0
+        Me.srchCopyDetailToCurrentOrder.ExportFolder = Nothing
+        Me.srchCopyDetailToCurrentOrder.FromModules = "Search"
+        Me.srchCopyDetailToCurrentOrder.HideLinkedSearchMenu = true
+        SearchLegend1.Pin = false

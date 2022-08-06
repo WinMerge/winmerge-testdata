@@ -1,0 +1,9 @@
+        Me.srchCopyDetailToCurrentOrder.Anchor = CType(((System.Windows
+            Or System.Windows.Forms.AnchorStyles.Left) _
+            Or System.Windows.Forms.AnchorStyles.Right),System.Windows
+        Me.srchCopyDetailToCurrentOrder.AutoResizeColumns = false
+        Me.srchCopyDetailToCurrentOrder.AutoResizeRows = false
+        Me.srchCopyDetailToCurrentOrder.ExportFolder = Nothing
+        Me.srchCopyDetailToCurrentOrder.FilterField = Nothing
+        Me.srchCopyDetailToCurrentOrder.HideLinkedSearchMenu = true
+        SearchLegend1.Pin = false
