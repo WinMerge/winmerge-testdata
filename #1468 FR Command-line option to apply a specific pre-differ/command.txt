@@ -1,0 +1,1 @@
+"C:\Program Files\WinMerge\WinMergeU.exe" file1.txt file2.txt /prediffer "IgnoreColumns 5-14"
