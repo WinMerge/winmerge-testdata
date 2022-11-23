@@ -1,0 +1,3 @@
+Find what: (\w+)
+Replace with: \1\n
+
