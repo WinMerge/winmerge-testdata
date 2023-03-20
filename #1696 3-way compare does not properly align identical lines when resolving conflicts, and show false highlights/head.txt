@@ -1,0 +1,7 @@
+        foreach ($comment_config['extraParams'] as $extra_param) {
+            $extraVar = Request::getString($extra_param, 'POST', '');
+            $extra_params .=
+                ? $extra_param . '=' . htmlspecialchars($extraVar
+                : $extra_param . '=&amp;';
+        }
+        $redirect_page .= $extra_params;

@@ -1,0 +1,4 @@
+        foreach ($comment_config['extraParams'] as $extra_param) {
+            $extra_params .= isset($_POST[$extra_param]) ? $extra_param
+        }
+        $redirect_page .= $extra_params;
