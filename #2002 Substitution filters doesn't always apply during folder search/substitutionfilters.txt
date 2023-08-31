@@ -1,0 +1,5 @@
+
+ *"ricochetTimeToLive": 0\.085,\r\n -> `` 
+
+\"[a-zA-Z0-9\+\/]*\=\=\" -> diff1
+\[\r?\n *\d*,\r?\n *\d*,\r?\n *\d*,\r?\n *\d*\r?\n *\] -> diff1 
