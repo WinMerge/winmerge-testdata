@@ -1,0 +1,19 @@
+{
+        "Parameters": [
+
+      {
+        "HandleId": "1",
+        "Data": {
+          "$type": "Vignette",
+		}
+      },
+      {
+        "HandleId": "0",
+        "Data": {
+          "$type": "ColorGrading",
+          "brightness": 1,
+          "contrast": 1,
+         }
+	  },
+    ]
+}
