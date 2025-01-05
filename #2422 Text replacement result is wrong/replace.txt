@@ -1,0 +1,2 @@
+FInd what: ("([\s\w]*)A([\s\w]*)")
+Replace with: \1, "\2B\3"
