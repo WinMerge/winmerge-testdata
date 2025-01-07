@@ -1,0 +1,8 @@
+Given text:
+AAAA AAAA AAAA
+
+Select them,
+Find "AAAA", Replace with "BBBB" in "Selection" as below
+
+
+
