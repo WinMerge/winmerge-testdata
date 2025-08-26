@@ -1,0 +1,1 @@
+c:/dev/winmerge-testdata/#1976 if i compare 2 folders of symlinks, will Delete-Left affect the linked files/dir1/file1.txt
