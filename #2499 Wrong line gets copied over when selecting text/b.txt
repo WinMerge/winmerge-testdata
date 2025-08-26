@@ -1,0 +1,6 @@
+Keyboard Layout
+===============
+
+aKey                    Action
+a~~~                    ~~~~~~
+a
