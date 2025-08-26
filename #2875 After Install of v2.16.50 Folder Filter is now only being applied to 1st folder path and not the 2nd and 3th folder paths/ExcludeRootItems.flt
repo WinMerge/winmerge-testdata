@@ -1,0 +1,30 @@
+## This is a directory/file filter for WinMerge
+## This filter suppresses Root folders and files
+name: ExcludeRootItems
+desc: Suppresses various Root folders and files
+
+## This is an inclusive (loose) filter
+## (it lets through everything not specified)
+def: include
+
+## Filters for filenames begin with f:
+## Filters for directories begin with d:
+## (Inline comments begin with " ##" and extend to the end of the line)
+
+f: ^ARestore.exe$
+f: ^ARestore.loc$
+f: ^desktop.ini$
+f: ^MediaID.bin$
+d: ^\\\$AV_NLL$
+d: ^\\\(Drive Vault1 \(X\)\)$
+d: ^\\\(Drive Vault2 \(Y\)\)$
+d: ^\\\(Drive Vault3 \(Z\)\)$
+d: ^\\FileHistory$
+d: ^\\Vault1$
+d: ^\\Vault2$
+d: ^\\Vault3$
+d: ^\\N360_BACKUP$
+d: ^\\N360_BACKUP-S$
+d: ^\\Recorded TV$
+d: ^\\Recovery$
+d: ^\\WindowsImageBackupVault_R-Drive$
